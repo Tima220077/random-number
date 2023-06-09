@@ -1,0 +1,17 @@
+.div{
+  position: absolute;
+  top: 40%;
+  right: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+h3{
+  background-color: yellowgreen;
+  padding: 10px;
+}
+.btn{
+  margin-top: 10px;
+}
